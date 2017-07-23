@@ -6,4 +6,6 @@ public class Cliente
 	public Cliente(){
 
 	}
+	//Linea 2
+	//linea 3
 } 
